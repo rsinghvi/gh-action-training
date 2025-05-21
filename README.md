@@ -1,2 +1,2 @@
 # gh-action-training
-GitHub actions training 22/5
+GitHub actions training 22/5-2025
